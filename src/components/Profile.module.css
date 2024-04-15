@@ -1,0 +1,50 @@
+.dark {
+    background-color: rgb(78, 78, 78);
+    color: white;
+}
+
+.light {
+    background-color: rgb(231, 230, 230);
+    color: black;
+}
+
+.light footer {
+    background-color: rgb(198, 198, 198);
+  }
+
+  .dark footer {
+    background-color: rgb(29, 29, 29);
+  }
+
+  .light header {
+        background-color: rgb(198, 198, 198);
+  }
+
+  .dark header {
+    background-color: rgb(67, 67, 67);
+  }
+
+  .light header {
+    background-color: rgb(198, 198, 198);
+  }
+
+  .dark header {
+    background-color: rgb(67, 67, 67);
+  }
+
+  .light button {
+    background-color: #f6f6f6; 
+    color: #652222; 
+
+    padding: 1rem 1.5rem;
+    margin-bottom: 1rem;
+  }
+
+  .dark button {
+    background-color: #580000; 
+    color: #99fdff; 
+
+
+    padding: 1rem 1.5rem;
+    margin-bottom: 1rem;
+  }
